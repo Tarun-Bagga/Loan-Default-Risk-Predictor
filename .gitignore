@@ -1,0 +1,22 @@
+# Data (large files, don't commit raw data unless small enough)
+data/raw/*.csv
+data/processed/*.csv
+
+# Models (binary files, can get large)
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
