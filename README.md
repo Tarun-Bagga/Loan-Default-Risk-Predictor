@@ -105,5 +105,8 @@ Python, Pandas, NumPy, Scikit-learn, imbalanced-learn (SMOTE), XGBoost, SHAP, Fa
 ├── models/              # saved trained model, feature columns, threshold
 ├── app/
 │   └── main.py           # FastAPI backend
+├── LICENSE
+├── README.md
+├── .gitignore
 └── requirements.txt
 ```
